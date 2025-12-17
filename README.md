@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+  <em>
+    <h3> Department of software engineering at Dongseoul Univ.<h3>
+  </em>
+</p>
+<h2>My tech stack</h2>
+
+![C]
+![HTML5]
+![CSS3]
+![JavaScript]
+
+

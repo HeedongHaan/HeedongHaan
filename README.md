@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 <h2>My tech stack</h2>
 
-![C]
+![C](https://img.shields.io/badge/Primary_Language-C-5588FF)
 ![HTML5]
 ![CSS3]
 ![JavaScript]
